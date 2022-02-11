@@ -1,5 +1,5 @@
 # turtle-tim
-A small Java game in which you are a turtle progressing through the layers of the ocean to find land.
+A small game in which you are a turtle progressing through the layers of the ocean to find land.
 Control tim with w a s and d and avoid dying lmao
 In order to get support go to https://discord.gg/pXaAudQ6WW!
 
